@@ -1,1 +1,1 @@
-Comandos: npx expo run:android --list-devices
+Extracts the japanese text of a photo using a phone's camera.
